@@ -9,7 +9,7 @@ A noopfile is a configuration file that lives in your code's repository. It desc
 
 This guide will help you to get started using noop by deploying a sample application, so you can quickly gain a better understanding of how components, resources, and a noopfile all work together.
 
-Let's get started!!!!
+Let's get started!!!!!
 
 # The sample application
 
